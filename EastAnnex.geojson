@@ -35,7 +35,7 @@
     {
       "type": "Feature",
       "properties": {
-        "East Annex": "",
+        "name":"East Annex",
         "marker-color":"#990000"
       },
       "geometry": {
