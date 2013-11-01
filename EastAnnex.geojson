@@ -1,4 +1,5 @@
-tureCollection",
+{
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
